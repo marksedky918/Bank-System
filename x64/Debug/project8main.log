@@ -1,0 +1,4 @@
+﻿  project8main.cpp
+C:\Users\hikal\source\repos\project8main\project8main\project8main.cpp(243,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hikal\source\repos\project8main\project8main\project8main.cpp(790,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  project8main.vcxproj -> C:\Users\hikal\source\repos\project8main\x64\Debug\project8main.exe
