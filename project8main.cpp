@@ -339,7 +339,7 @@ void deleteclientt() {
     if (markclientfordeletebyaccountnumber(accountnumber,client)) {
         printinfoclient(client);
 
-        cout << "\n\nAre you sure you want delete this user? y/n ? ";
+        cout << "\n\nAre you sure you want delete this client? y/n ? ";
         cin >> answer;
         if (answer == 'Y' || answer == 'y') {
 
